@@ -1,11 +1,11 @@
-2024-12-09 14:22:26 UTC
-Windows-10-10.0.22631
+2024-12-15 19:20:51 UTC
+Windows-10-10.0.26100
 Ren'Py 8.3.3.24111502
 
 Early init took 0.04s
-Loading error handling took 0.02s
-Loading script took 0.12s
-Loading save slot metadata took 0.01s
+Loading error handling took 0.01s
+Loading script took 0.13s
+Loading save slot metadata took 0.03s
 Loading persistent took 0.00s
 Running init code took 0.03s
 Loading analysis data took 0.01s
@@ -20,18 +20,18 @@ Initial gc took 0.02s
 DPI scale factor: 1.500000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.16s
+Creating interface object took 0.15s
 Cleaning stores took 0.00s
 Init translation took 0.02s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.01s
 Save screen analysis took 0.01s
-Prepare screens took 0.04s
+Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.02s
 Running _start took 0.00s
-Interface start took 0.33s
+Interface start took 0.11s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1600)
@@ -41,8 +41,9 @@ Vendor: "b'NVIDIA Corporation'"
 Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
 Version: b'4.6.0 NVIDIA 565.90'
 Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2458, 1383) drawable=(2458, 1383)
-Could not open 'cache/shaders.txt':
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1566) drawable=(2560, 1566)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1566) drawable=(2560, 1566)
 Maximum texture size: 4096x4096
 Cleaning stores took 0.00s
 Init translation took 0.00s
@@ -51,3 +52,16 @@ Load screen analysis took 0.02s
 Analyze screens took 0.00s
 Prepare screens took 0.00s
 Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1566) drawable=(2560, 1566)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1566) drawable=(2560, 1566)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1566) drawable=(2560, 1566)
+Maximum texture size: 4096x4096

@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 22: end of line expected.
+    show madhuri angry with fade at left
+                                 ^
+
+File "game/script.rpy", line 25: end of line expected.
+    show madhuri smile with fade at right
+                                 ^
+
+Ren'Py Version: Ren'Py 8.3.3.24111502
+Sun Dec 15 20:24:46 2024
